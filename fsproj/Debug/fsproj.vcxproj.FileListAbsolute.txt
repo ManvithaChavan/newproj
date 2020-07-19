@@ -1,0 +1,27 @@
+C:\Users\manvi\OneDrive\Desktop\fs project\fsproj\fsproj\Debug\fsproj.vcxprojAssemblyReference.cache
+C:\Users\manvi\OneDrive\Desktop\fs project\fsproj\fsproj\Debug\fsproj.MyForm.resources
+C:\Users\manvi\OneDrive\Desktop\fs project\fsproj\fsproj\Debug\fsproj.vcxproj.GenerateResource.cache
+C:\Users\manvi\OneDrive\Desktop\fs project\fsproj\fsproj\Debug\fsproj.MyForm1.resources
+C:\Users\manvi\OneDrive\Desktop\fs project\fsproj\fsproj\Debug\fsproj.MyForm2.resources
+C:\Users\ADMIN\Desktop\fs project\fsproj\fsproj\Debug\fsproj.vcxprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\fs project\fsproj\fsproj\Debug\fsproj.MyForm.resources
+C:\Users\ADMIN\Desktop\fs project\fsproj\fsproj\Debug\fsproj.MyForm1.resources
+C:\Users\ADMIN\Desktop\fs project\fsproj\fsproj\Debug\fsproj.MyForm2.resources
+C:\Users\ADMIN\Desktop\fs project\fsproj\fsproj\Debug\fsproj.vcxproj.GenerateResource.cache
+C:\Users\viral\Downloads\fs project(updated)\fs project\fsproj\fsproj\Debug\fsproj.vcxprojAssemblyReference.cache
+C:\Users\viral\Downloads\fs project(updated)\fs project\fsproj\fsproj\Debug\fsproj.MyForm.resources
+C:\Users\viral\Downloads\fs project(updated)\fs project\fsproj\fsproj\Debug\fsproj.MyForm1.resources
+C:\Users\viral\Downloads\fs project(updated)\fs project\fsproj\fsproj\Debug\fsproj.MyForm2.resources
+C:\Users\viral\Downloads\fs project(updated)\fs project\fsproj\fsproj\Debug\fsproj.vcxproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\fs project(done)\fs project\fsproj\fsproj\Debug\fsproj.vcxprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\fs project(done)\fs project\fsproj\fsproj\Debug\fsproj.MyForm.resources
+C:\Users\ADMIN\Desktop\fs project(done)\fs project\fsproj\fsproj\Debug\fsproj.MyForm1.resources
+C:\Users\ADMIN\Desktop\fs project(done)\fs project\fsproj\fsproj\Debug\fsproj.MyForm2.resources
+C:\Users\ADMIN\Desktop\fs project(done)\fs project\fsproj\fsproj\Debug\fsproj.vcxproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\fs project(done)\fs project\fsproj\fsproj\Debug\fsproj.MyForm3.resources
+C:\Users\manvi\OneDrive\Documents\fs project(98% done)\fsproj\fsproj\Debug\fsproj.vcxprojAssemblyReference.cache
+C:\Users\manvi\OneDrive\Documents\fs project(98% done)\fsproj\fsproj\Debug\fsproj.MyForm.resources
+C:\Users\manvi\OneDrive\Documents\fs project(98% done)\fsproj\fsproj\Debug\fsproj.MyForm1.resources
+C:\Users\manvi\OneDrive\Documents\fs project(98% done)\fsproj\fsproj\Debug\fsproj.MyForm2.resources
+C:\Users\manvi\OneDrive\Documents\fs project(98% done)\fsproj\fsproj\Debug\fsproj.MyForm3.resources
+C:\Users\manvi\OneDrive\Documents\fs project(98% done)\fsproj\fsproj\Debug\fsproj.vcxproj.GenerateResource.cache
